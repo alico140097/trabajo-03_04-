@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  *
- * @author Jonna
+ * @author Alex
  */
 public class ProductoServiceImpl implements ProductoService{
     private static List<Producto>productoLista = new ArrayList<>();

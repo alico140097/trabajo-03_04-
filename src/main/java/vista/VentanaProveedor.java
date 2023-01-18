@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author alex 
+ * @author Alex 
  */
 public class VentanaProveedor extends JFrame {
 

@@ -9,7 +9,7 @@ import java.util.List;
 
 /**
  *
- * @author Jonna
+ * @author Alex
  */
 public interface ProductoService {
     public void crearProduct(Producto producto);

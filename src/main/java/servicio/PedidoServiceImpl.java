@@ -11,7 +11,7 @@ import java.util.List;
 
 /**
  *
- * @author Jonna
+ * @author Alex
  */
 public class PedidoServiceImpl implements PedidoService {
 

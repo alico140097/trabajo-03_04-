@@ -13,7 +13,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Jonna
+ * @author Alex
  */
 public class ControladorPedido {
 

@@ -11,4 +11,5 @@
         <maven.compiler.target>11</maven.compiler.target>
         <exec.mainClass>com.mycompany.trabajocujimvc3.TrabajoCujiMVC3</exec.mainClass>
     </properties>
+    <name>TrabajoCujiMVC3</name>
 </project>
